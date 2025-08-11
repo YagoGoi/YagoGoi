@@ -35,6 +35,15 @@ Me chamo Yago José Dallepiane Goi, tenho 22 anos e sou natural do Rio Grande do
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
 
+<img 
+    align="left" 
+    alt="AWS" 
+    title="AWS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original-wordmark.svg" 
+/>
+
 <br/>
 <br/>
 
