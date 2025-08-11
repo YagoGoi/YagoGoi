@@ -19,11 +19,20 @@ Me chamo Yago José Dallepiane Goi, tenho 22 anos e sou natural do Rio Grande do
 
 <img 
     align="left" 
-    alt="Spark" 
-    title="Spark"
+    alt="AWS" 
+    title="AWS"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="Docker" 
+    title="Docker"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg" 
 />
 
 <img 
@@ -37,11 +46,11 @@ Me chamo Yago José Dallepiane Goi, tenho 22 anos e sou natural do Rio Grande do
 
 <img 
     align="left" 
-    alt="AWS" 
-    title="AWS"
+    alt="Spark" 
+    title="Spark"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original-wordmark.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original.svg" 
 />
 
 <br/>
