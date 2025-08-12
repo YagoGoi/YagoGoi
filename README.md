@@ -4,7 +4,7 @@
 
 Me chamo Yago José Dallepiane Goi, tenho 22 anos e sou natural do Rio Grande do Sul. Atualmente, curso Ciência da Computação na UNIJUÍ. Sou apaixonado por tecnologia e, recentemente, tenho me aprofundado nas áreas de dados e computação em nuvem.
 
----
+##
 
 ### 🤖 Linguagens e Tecnologias
 
@@ -73,6 +73,15 @@ Me chamo Yago José Dallepiane Goi, tenho 22 anos e sou natural do Rio Grande do
 
 <br/>
 <br/>
+
+##
+
+<div> 
+  <a href="https://instagram.com/yagogoi" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:yagogoi25@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/yagogoi" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.credly.com/badges/f06377f0-142d-406c-a64a-c3cdbf8f45bb/public_url" target="_blank"><img src="https://img.shields.io/badge/AWS%20Certified-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS Certification"/></a>  
+</div>
 
 ### 📊 Estatísticas
 
